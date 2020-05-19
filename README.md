@@ -1,2 +1,5 @@
-# epoxy
-Prune protect your data
+# Epoxy
+
+> Prune protect your data
+
+Also known as E://
