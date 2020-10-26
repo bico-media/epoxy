@@ -33,7 +33,7 @@ WIP:
 
 # Epoxy protocol definition
 
-Epoxy should be considered a wrapper of current data - so it's about how data is stored and now what data is stored. 
+Epoxy should be considered a wrapper of current data - so it's about _how_ data is stored and not _what_ data is stored. We suggest wrapped protocols are named with an `𝑒` at the end like 'BCAT𝑒' 'B𝑒' and 'D://𝑒'
 
 At this stage, there are two suggestions to solve this awaiting feedback from the community. 
 
